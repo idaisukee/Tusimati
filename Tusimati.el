@@ -8,7 +8,8 @@
 (custom-set-faces
     `(whitespace-tab
          ((t (
-                 :inherit whitespace-space)))))
+                 :inherit whitespace-space
+                 :foreground "#75715E")))))
 
 (provide 'Tusimati)
 
