@@ -18,14 +18,14 @@
     `(dired-k-size-colors
          `(
               (1024 . ,monokai-cyan)
-              (2048 . ,monokai-blue)
+              (2048 . ,monokai-magenta)
               (3072 . ,monokai-blue)
               
-              (5120 . ,monokai-green)
+              (5120 . ,monokai-violet)
               (10240 . ,monokai-green)
-              (20480 . ,monokai-violet)
+              (20480 . ,monokai-yellow)
               (40960 . ,monokai-yellow)
-              
+              monokai
               (102400 . ,monokai-orange)
               (262144 . ,monokai-red)
               (524288 . ,monokai-red))))
