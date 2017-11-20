@@ -14,10 +14,21 @@
          ((t (
                  :foreground ,monokai-blue)))))
 
-(custom-set-variables `(dired-k-size-colors
-  `((1024 . ,monokai-green) (2048 . ,monokai-red) (3072 . ,monokai-yellow)
-    (5120 . "chartreuse1") (10240 . "yellow3") (20480 . "yellow2") (40960 . "yellow")
-    (102400 . "orange3") (262144 . "orange2") (524288 . "orange"))))
+(custom-set-variables
+    `(dired-k-size-colors
+         `(
+              (1024 . ,monokai-cyan)
+              (2048 . ,monokai-blue)
+              (3072 . ,monokai-blue)
+              
+              (5120 . ,monokai-green)
+              (10240 . ,monokai-green)
+              (20480 . ,monokai-violet)
+              (40960 . ,monokai-yellow)
+              
+              (102400 . ,monokai-orange)
+              (262144 . ,monokai-red)
+              (524288 . ,monokai-red))))
 
 
 (provide 'Tusimati)
