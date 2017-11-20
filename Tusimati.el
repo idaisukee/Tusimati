@@ -30,6 +30,20 @@
               (262144 . ,monokai-red)
               (524288 . ,monokai-red))))
 
+(custom-set-variables
+    `(dired-k-date-colors
+         `(
+              (0 . ,monokai-red)
+              (60 . ,monokai-orange)
+              (3600 . ,monokai-yellow)
+              
+              (86400 . ,monokai-green)
+              (604800 . ,monokai-violet)
+              (2419200 . ,monokai-blue)
+              
+              (15724800 . ,monokai-magenta)
+              (31449600 . ,monokai-cyan)
+              (62899200 . ,monokai-cyan)))
 
 (provide 'Tusimati)
 
