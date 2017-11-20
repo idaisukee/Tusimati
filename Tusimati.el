@@ -9,7 +9,10 @@
     `(whitespace-tab
          ((t (
                  :inherit whitespace-space
-                 :foreground "#75715E")))))
+                 :foreground "#75715E"))))
+    `(dired-k-directory
+         ((t (
+                 :foreground ,monokai-blue)))))
 
 (provide 'Tusimati)
 
