@@ -25,7 +25,6 @@
               (10240 . ,monokai-green)
               (20480 . ,monokai-yellow)
               (40960 . ,monokai-yellow)
-              monokai
               (102400 . ,monokai-orange)
               (262144 . ,monokai-red)
               (524288 . ,monokai-red))))
