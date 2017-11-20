@@ -14,5 +14,12 @@
          ((t (
                  :foreground ,monokai-blue)))))
 
+(custom-set-variables `(dired-k-size-colors
+  `((1024 . ,monokai-green) (2048 . ,monokai-red) (3072 . ,monokai-yellow)
+    (5120 . "chartreuse1") (10240 . "yellow3") (20480 . "yellow2") (40960 . "yellow")
+    (102400 . "orange3") (262144 . "orange2") (524288 . "orange"))))
+
+(custom-set-variables 
+
 (provide 'Tusimati)
 
