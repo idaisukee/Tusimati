@@ -43,7 +43,7 @@
               
               (15724800 . ,monokai-magenta)
               (31449600 . ,monokai-cyan)
-              (62899200 . ,monokai-cyan)))
+              (62899200 . ,monokai-cyan))))
 
 (provide 'Tusimati)
 
