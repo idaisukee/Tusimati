@@ -9,7 +9,7 @@
     `(whitespace-tab
          ((t (
                  :inherit whitespace-space
-                 :foreground "#75715")))))
+                 :foreground "#75715E")))))
 
 (provide 'Tusimati)
 
